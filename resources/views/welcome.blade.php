@@ -30,7 +30,7 @@
                     @include('custcoom-lb')
                     @include('custcoom-tm')
                     {{--  --}}
-                    
+                    @include('attendance')
                 </div>
             </div>
         </div>
