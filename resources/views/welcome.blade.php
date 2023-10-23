@@ -31,6 +31,7 @@
                     @include('custcoom-tm')
                     {{--  --}}
                     @include('attendance')
+                    @include('commerce')
                 </div>
             </div>
         </div>
