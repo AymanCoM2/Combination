@@ -10,7 +10,7 @@
                 <path d="M4 11.794V16l4-1 4 1v-4.206l-2.018.306L8 13.126 6.018 12.1 4 11.794z" />
             </svg>
         </div>
-        <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Attend Sys</h2>
+        <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Pivot Tables</h2>
         <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
             Pivot Tables For the Dashboard
         </p>
