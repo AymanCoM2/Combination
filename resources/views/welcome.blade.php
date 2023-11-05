@@ -25,6 +25,7 @@
                     @include('custcoom-tm')
                     @include('attendance')
                     @include('commerce')
+                    @include('pivotAnalytica')
                 </div>
             </div>
         </div>
