@@ -12,7 +12,7 @@
         </div>
         <h2 class="mt-6 text-xl font-semibold text-gray-900 dark:text-white">Attend Sys</h2>
         <p class="mt-4 text-gray-500 dark:text-gray-400 text-sm leading-relaxed">
-            For Attendence Of Employee
+            Pivot Tables For the Dashboard
         </p>
     </div>
     <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5"
